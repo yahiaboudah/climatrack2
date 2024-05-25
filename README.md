@@ -1,5 +1,7 @@
 # ClimaTrack
 
+![CLIMATRACK](images/logo1.png)
+
 **ClimaTrack** is a comprehensive climate monitoring system designed to track temperature and humidity across various rooms. This project leverages the power of Firebase for real-time data storage and user authentication, and it utilizes Flutter for a seamless, cross-platform mobile application experience. ClimaTrack is an ideal solution for anyone looking to monitor environmental conditions in different rooms, with features for both regular users and administrators.
 
 The code for the ESP8266 programming can be found in the **arch/esp8266_conf/** folder.
