@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "217566471285",
+    "firebase_url": "https://climatrack2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "climatrack2",
+    "storage_bucket": "climatrack2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217566471285:android:7553b63e2858f2fd77c43c",
+        "android_client_info": {
+          "package_name": "com.example.climatrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfoYT5h3YjW7NiAvaTMXwIPdzH8FiLIRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217566471285:android:45a895924105a0fa77c43c",
+        "android_client_info": {
+          "package_name": "com.example.climatrack2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfoYT5h3YjW7NiAvaTMXwIPdzH8FiLIRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
